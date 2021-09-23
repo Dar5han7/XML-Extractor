@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A configurable software package which will extract the required text based on the keyword and store it in the csv format.
+A configurable software package which will extract the required text based on the keyword and store it in a csv format.
 
 eg. <br />
 input<br />
@@ -38,10 +38,10 @@ title_no,stories
 
 ## Requirements
 
-* Install Anaconda based on the operating system. Follow the below link for installation
+* Install Anaconda package based on the operating system. Follow the below link for installation.
   >https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 
-* Clone the repository or download the whole package of XML extractor
+* Clone the repository or download the whole package of XML extractor.
 
 * Choose a suitable IDE like Pycharm or VS code.
 
@@ -62,7 +62,7 @@ title_no,stories
 
 ## Steps to run the package
 
-1. Please follow all the steps mentioned in the requirement section.
+1. Please follow all the steps mentioned in the requirements section.
 2. Edit the config.ini based on your requirement. Details of each parameter is provided in the file with comments. 
 ```
 [DETAILS]
