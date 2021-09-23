@@ -6,7 +6,7 @@ import os
 import configparser
 
 
-def title_extractor(url,sep,key,filepath,tag,fields):
+def extractor(url,sep,key,filepath,tag,fields):
     '''
 
     :param url:url of the link
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     TAG = config_parser.get('DETAILS', 'TAG')
     FILEPATH = config_parser.get('DETAILS', 'FILEPATH')
     FIELD = config_parser.get('DETAILS', 'FIELD')
-    title_extractor(URL,SEP,KEY,FILEPATH,TAG, FIELD)
+    extractor(URL,SEP,KEY,FILEPATH,TAG, FIELD)
 
 
 
