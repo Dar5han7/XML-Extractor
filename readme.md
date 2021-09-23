@@ -60,7 +60,7 @@ title_no,stories
 * requirement.txt :- List of python package to be installed.
 * readme.md       :- Package details with steps to run the package. 
 
-##Steps to run the package
+## Steps to run the package
 
 1. Please follow all the steps mentioned in the requirement section.
 2. Edit the config.ini based on your requirement. Details of each parameter is provided in the file with comments. 
